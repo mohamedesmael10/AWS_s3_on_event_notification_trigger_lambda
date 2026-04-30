@@ -1,0 +1,1 @@
+# AWS_s3_on_event_notification_trigger_lambda
